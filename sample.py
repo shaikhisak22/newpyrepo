@@ -3,3 +3,5 @@ def asd():
 
 def uio():
     pass
+
+print('Hiiiiiii')
